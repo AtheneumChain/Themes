@@ -1,1 +1,1 @@
-![Image ThemeComp](https://github.com/zaemliss/installers/blob/master/atheneum/images/AEMSync.png) </br>
+![Image ThemeComp](https://github.com/AtheneumChain/Themes/raw/master/images/themecomp.jpg) </br>
