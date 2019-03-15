@@ -12,10 +12,8 @@ Rules text
 3. Ability to read and modify CSS (this file will control the colors, font sizes as well as certain images like the background image)
 
 # Instructions
-1. Download and modify this theme template (based on Tech currently as it has all of the features active in css) here: <br/>
-```
+1. Download and modify this theme template (based on Tech currently as it has all of the features active in css) here:
 https://github.com/AtheneumChain/Themes/raw/master/Theme_Template.zip
-```
 2. Extract the files then modify or replace them with your graphics program
 3. Modify the CSS as required to match the new colors of your theme
 4. test your theme (requires the ability to compile the wallet)
