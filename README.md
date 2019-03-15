@@ -16,5 +16,6 @@ Rules text
 https://github.com/AtheneumChain/Themes/raw/master/Theme_Template.zip
 2. Extract the files then modify or replace them with your graphics program
 3. Modify the CSS as required to match the new colors of your theme
-4. test your theme (requires the ability to compile the wallet)
+4. Test your theme (requires the ability to compile the wallet)
 5. Repackage (zip) the files exactly as they originally were named and located (don't rename anything at all - we'll take care of replacing the code in the right places with the name of your theme)
+6. Submit the file via discord under the "#theme-competition" channel with the theme name, a screenshot of the theme applied to an Atheneum wallet and the zip file (should be under 1mb. If it isn't, the images aren't optimized)
