@@ -27,10 +27,10 @@ Example:<br/>
 # To Compile and Test:
 
 1. Please make sure you place the folder ` new_theme ` under the icons folder in src/qt/res:
-![Image placehere](https://github.com/AtheneumChain/Themes/raw/master/images/savehere.png) </br>
+![Image placehere](https://github.com/AtheneumChain/Themes/raw/master/savehere.png) </br>
 
 2. place the ` new_theme.css ` file in the same directory as the other css files: /src/qt/res/css:
-![Image savecss](https://github.com/AtheneumChain/Themes/raw/master/images/savecss.png) </br>
+![Image savecss](https://github.com/AtheneumChain/Themes/raw/master/savecss.png) </br>
 
 3. compile as usual and test your theme. Don't forget to take a screenshot!
 
