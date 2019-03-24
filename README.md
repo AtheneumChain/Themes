@@ -6,18 +6,25 @@ Help build the future of crypto and make your mark in the history of blockchain.
 # Rules and Guidelines
 Atheneum's wallet design contest begins April 1st, 2019 and ends on April 30, 2019. You may choose to enter the contest as an individual or submit your theme as a collaboration. Please see prerequisites and instructions below for technical requirements. The themes will be voted on by the Atheneum community. The top three wallet themes will be added as official Atheneum wallet theme options.
 
-1st place : 5,000 $AEM + Atheneum t-shirt + Official Wallet Theme
-2nd place: 2,500 $AEM + Atheneum t-shirt + Official Wallet Theme
-3rd place: 1,000 $AEM + Atheneum t-shirt + Official Wallet Theme
-4th-7th place: 250 $AEM each
-8th-10th place: 150 $AEM each
+### Prizes
+• **1st place** : 5,000 $AEM + Atheneum t-shirt + Official Wallet Theme
+
+• **2nd place** : 2,500 $AEM + Atheneum t-shirt + Official Wallet Theme
+
+• **3rd place** : 1,000 $AEM + Atheneum t-shirt + Official Wallet Theme
+
+• **4th-7th place** : 250 $AEM each
+
+• **8th-10th place** : 150 $AEM each
+
+### Rules
 
 1. One submission per user or collaboration of users.
 2. Content must be original and not subject to copyright.
 3. No offensive content or content deemed inappropriate.
-4. No submissions will be accepted after 11:59:59 GMT on 4/30/19.
+4. No submissions will be accepted **after 11:59:59 GMT on 4/30/19**.
 5. Winner will be determined by votes on wallet screenshots in the voting channel.
-6. Voting ends 6pm GMT, May 8th, 2019.
+6. **Voting ends 6pm GMT, May 8th, 2019.**
 7. Winners agree to a short interview and to be published on Atheneum’s website and Medium Publication.
 8. Winners will be announced and prizes awarded 1 week after voting closes.
 
