@@ -1,10 +1,26 @@
 ![Image ThemeComp](https://github.com/AtheneumChain/Themes/raw/master/images/themecomp.jpg) </br>
 
 # Introduction
-Instructions text
+Help build the future of crypto and make your mark in the history of blockchain. Atheneum, a first mover in the education-centric blockchain space and the world's first DALO, is hosting a wallet theme design contest. Not only will you be able to help build the future and play a role in the evolution of education as we know it, you will also be able to win some cold hard $AEM. Your wallet theme could even be selected as an official option for all Atheneum users worldwide! Wouldn’t it be nice to be able to list “Blockchain Wallet Developer” to your resume?
 
 # Rules and Guidelines
-Rules text
+Atheneum's wallet design contest begins April 1st, 2019 and ends on April 30, 2019. You may choose to enter the contest as an individual or submit your theme as a collaboration. Please see prerequisites and instructions below for technical requirements. The themes will be voted on by the Atheneum community. The top three wallet themes will be added as official Atheneum wallet theme options.
+
+1st place : 5,000 $AEM + Atheneum t-shirt + Official Wallet Theme
+2nd place: 2,500 $AEM + Atheneum t-shirt + Official Wallet Theme
+3rd place: 1,000 $AEM + Atheneum t-shirt + Official Wallet Theme
+4th-7th place: 250 $AEM each
+8th-10th place: 150 $AEM each
+
+1. One submission per user or collaboration of users.
+2. Content must be original and not subject to copyright.
+3. No offensive content or content deemed inappropriate.
+4. No submissions will be accepted after 11:59:59 GMT on 4/30/19.
+5. Winner will be determined by votes on wallet screenshots in the voting channel.
+6. Voting ends 6pm GMT, May 8th, 2019.
+7. Winners agree to a short interview and to be published on Atheneum’s website and Medium Publication.
+8. Winners will be announced and prizes awarded 1 week after voting closes.
+
 
 # Prerequisites
 1. You must be able to compile a wallet or have access to someone who can (so you can test it!)
