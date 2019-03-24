@@ -3,8 +3,10 @@
 # Introduction
 Help build the future of crypto and make your mark in the history of blockchain. Atheneum, a first mover in the education-centric blockchain space and the world's first DALO, is hosting a wallet theme design contest. Not only will you be able to help build the future and play a role in the evolution of education as we know it, you will also be able to win some cold hard $AEM. Your wallet theme could even be selected as an official option for all Atheneum users worldwide! Wouldn’t it be nice to be able to list “Blockchain Wallet Developer” to your resume?
 
+# Timeline : April 1, 2019 to April 30, 2019
+
 # Rules and Guidelines
-Atheneum's wallet design contest begins April 1st, 2019 and ends on April 30, 2019. You may choose to enter the contest as an individual or submit your theme as a collaboration. Please see prerequisites and instructions below for technical requirements. The themes will be voted on by the Atheneum community. The top three wallet themes will be added as official Atheneum wallet theme options.
+You may choose to enter the contest as an individual or submit your theme as a collaboration. Please see prerequisites and instructions below for technical requirements. The themes will be voted on by the Atheneum community. The top three wallet themes will be added as official Atheneum wallet theme options.
 
 ### Prizes
 • **1st place** : 5,000 $AEM + Atheneum t-shirt + Official Wallet Theme
