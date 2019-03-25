@@ -1,7 +1,7 @@
 ![Image ThemeComp](https://github.com/AtheneumChain/Themes/raw/master/images/themecomp.jpg) </br>
 
 # Introduction
-Help build the future of crypto and make your mark in the history of blockchain. Atheneum, a first mover in the education-centric blockchain space and the world's first DALO, is hosting a wallet theme design contest. Not only will you be able to help build the future and play a role in the evolution of education as we know it, you will also be able to win some cold hard $AEM. Your wallet theme could even be selected as an official option for all Atheneum users worldwide! Wouldn’t it be nice to be able to list “Blockchain Wallet Developer” to your resume?
+Help build the future of crypto and make your mark in the history of blockchain. Atheneum, a first mover in the education-centric blockchain space and the world's first DALO, is hosting a wallet theme design contest. Not only will you be able to help build the future and play a role in the evolution of education as we know it, you will also be able to win some cold hard $AEM. Your wallet theme could even be selected as an official option for all Atheneum users worldwide!
 
 # Timeline : April 1, 2019 to April 30, 2019
 
